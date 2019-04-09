@@ -1,0 +1,12 @@
+.movie-box {
+  border: solid 2px black;
+  width: 50%;
+  margin: auto;
+  background-color: #f3e9e9;
+  height: 400px;
+  font-size: 24px;
+}
+
+.movie-box h3 {
+  margin-left: 35px;
+}

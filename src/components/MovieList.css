@@ -1,0 +1,23 @@
+.movie-list a {
+  text-decoration: none;
+  color: #2489b3;
+  font-weight: bold;
+}
+
+.movie-list button {
+  display: block;
+  margin: auto;
+  text-decoration: none;
+  font-weight: bold;
+  color: #2489b3;
+  background-color: #80c1dc;
+  border: solid black 2px;
+  font-size: 24px;
+  width: 98%;
+  height: 75px;
+
+}
+
+.movie-list hr {
+  margin: 3px;
+}
